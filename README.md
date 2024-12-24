@@ -3,7 +3,7 @@
 ### Project Overview
 This project, conducted as part of the **CS-GY 6053: Foundations of Data Science** course at **New York University (NYU)** (Fall 2024), explores the **causal impact of weather** conditions on **food delivery times**. In food delivery logistics, customer satisfaction heavily depends on timely delivery, which is influenced by external factors like weather and traffic. Poor weather conditions can directly slow down delivery times due to reduced visibility and hazardous road conditions. Simultaneously, adverse weather can increase traffic congestion, which indirectly delays deliveries.
 
-### Problem Statement (question/estimand)
+### Problem Statement
 
 The primary research question driving this study is: **How do weather conditions causally influence food delivery times, with traffic density acting as a confounding factor in this relationship?** By addressing this question, the analysis aims to uncover actionable insights to optimize delivery operations under diverse external scenarios like weather and traffic density.
 
